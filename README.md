@@ -1,17 +1,13 @@
-## 👋 Hi, I'm Wilson
+# Wilson
 
-<!--
-**koolwilly72/koolwilly72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+System Administrator and DevOps Engineer focused on infrastructure automation, bare metal systems, and cloud platforms.
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working with Kubernetes, Docker, Ansible, AWS, Azure, Jenkins, Terraform, CI/CD, Git & GitHub.
-<!--
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- Bare metal infrastructure and virtualisation (VMware vSphere, Proxmox)
+- Infrastructure automation with Ansible and Terraform
+- Container orchestration with Kubernetes and Docker
+- CI/CD pipelines using Jenkins
+- Multi-cloud deployments across Azure and AWS
+- Identity management with FreeIPA
+- Enterprise networking and high availability
